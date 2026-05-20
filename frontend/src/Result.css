@@ -1,0 +1,18 @@
+.result-page {
+  min-height: 100vh;
+  background: linear-gradient(135deg, #4f46e5, #7c3aed);
+  padding: 40px;
+  color: white;
+}
+
+.result-page h1 {
+  margin-bottom: 30px;
+}
+
+.result-card {
+  background: white;
+  color: #222;
+  padding: 25px;
+  border-radius: 18px;
+  margin-bottom: 20px;
+}
